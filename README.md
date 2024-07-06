@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @acs48
-- 👀 I’m a chemical engineer with passion for programmin
-- 🌱 I’m a Golang enthusiast since I discovered it
-- 💞️ I’m extensive user of commercial software. It is often so poor, that I found more efficient to build my own solution. I would like to share my work with the community
+- 👀 I’m a chemical engineer with passion for programming. Mainly working  on model predictive automation and control.
+- 🌱 I’m a Golang enthusiast since I discovered it.
+- 💞️ I’m extensive user of commercial software. But it is often simpler and more effective to build my own solution rather than fighting to adapt or make some other software work.
 
 <!---
 acs48/acs48 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
